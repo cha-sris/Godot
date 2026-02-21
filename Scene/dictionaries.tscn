@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://u8tvbwpv2ynj"]
+
+[ext_resource type="Script" uid="uid://bnpwmrahuasnj" path="res://Scripts/dictionaries.gd" id="1_kwdii"]
+
+[node name="Dictionaries" type="Node" unique_id=744677972]
+script = ExtResource("1_kwdii")
