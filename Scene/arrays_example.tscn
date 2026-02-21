@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://cn7a12uuhvhuu"]
+
+[ext_resource type="Script" uid="uid://c6o07febr7orn" path="res://Scripts/arrays_example.gd" id="1_1jsqu"]
+
+[node name="Arrays" type="Node" unique_id=801838093]
+script = ExtResource("1_1jsqu")
