@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://bbkd2jjr6oauo"]
+
+[ext_resource type="Script" uid="uid://cikui3qt0v3dn" path="res://Scripts/random_numbers.gd" id="1_da0m5"]
+
+[node name="RandomNumbers" type="Node" unique_id=60182596]
+script = ExtResource("1_da0m5")
