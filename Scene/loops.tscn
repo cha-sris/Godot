@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://b3suilnejiqh"]
+
+[ext_resource type="Script" uid="uid://b4hcj2twvf8bf" path="res://Scripts/loops.gd" id="1_uk74u"]
+
+[node name="Loops" type="Node" unique_id=732390602]
+script = ExtResource("1_uk74u")
